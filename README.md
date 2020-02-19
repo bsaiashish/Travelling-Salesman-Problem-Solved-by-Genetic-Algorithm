@@ -10,7 +10,9 @@ The travelling salesman problem (also called the travelling salesperson problem 
 
 The travelling purchaser problem and the vehicle routing problem are both generalizations of TSP.
 
-
+## Suggestions:
+Use the following website to run the code(if unable to get it done on the Processing Desktop App): 
+![](https://www.openprocessing.org/sketch/create)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -19,4 +21,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Acknowledgements
+HUGE HUGE THANKS TO THE CODING TRAIN(Daniel Shiffman) FOR TEACHING ME ABOUT GENETIC ALGORITHM ANND TSP!!!
 
