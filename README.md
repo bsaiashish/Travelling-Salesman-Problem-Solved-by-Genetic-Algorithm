@@ -21,5 +21,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Acknowledgements
-HUGE HUGE THANKS TO THE CODING TRAIN(Daniel Shiffman) FOR TEACHING ME ABOUT GENETIC ALGORITHM ANND TSP!!!
+HUGE HUGE THANKS TO THE CODING TRAIN(Daniel Shiffman) FOR TEACHING ME ABOUT GENETIC ALGORITHM ANND TSP!
 
